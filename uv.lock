@@ -432,7 +432,7 @@ wheels = [
 ]
 
 [[package]]
-name = "ia-agentic"
+name = "ia-agentic-intro"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
